@@ -57,3 +57,5 @@ Following options is used to patch the app using Revanced CLI
   } ]
 }]
 ```
+
+Full credit to the [ReVanced](https://github.com/athuld/revanced-patches.git]) team for every tools and patches that is used.
